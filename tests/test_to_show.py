@@ -15,14 +15,11 @@ def test_10th_level_1():
 
 def test_characters_get_different_ids_1():
     user_names = [
-        'BamBam',
-        'Dino',
-        'Woody',
-        'LittleBoPeep',
-        'SlinkyDog',
-        'Buzz',
-        'Mr.PotatoHead',
-        'Mrs.PotatoHead'
+        'adam',
+        'bang',
+        'Bulldog',
+        'William',
+        'Shakes'
     ]
     users_ids = []
     for name in user_names:
